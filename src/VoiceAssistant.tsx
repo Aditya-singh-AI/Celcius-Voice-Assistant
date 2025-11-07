@@ -304,7 +304,7 @@ export default function VoiceAssistant({ userEmail }: { userEmail?: string | nul
         )}
         <div className="p-3 bg-yellow-900/20 border border-yellow-700/30 rounded-lg text-xs text-yellow-300 flex items-start gap-2">
           <CircleHelp size={28} className="flex-shrink-0" />
-          <span><strong>Setup Required:</strong> For real-time Q&A, add your <code className="bg-yellow-400/20 px-1 rounded">OPENROUTER_API_KEY</code> in your Convex dashboard.</span>
+          <span><strong>Creators</strong> The Mind Behind the Tech <code className="bg-yellow-400/20 px-1 rounded">Created By</code> Aditya Singh and Abhishek Mewada</span>
         </div>
       </div>
     </div>

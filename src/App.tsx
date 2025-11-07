@@ -21,7 +21,7 @@ export default function App() {
             <div className="w-8 h-8 bg-brand-blue text-white rounded-full flex items-center justify-center">
               <Bot size={20} />
             </div>
-            <h2 className="text-lg sm:text-xl font-semibold tracking-tight">Voice Assistant AI</h2>
+            <h2 className="text-lg sm:text-xl font-semibold tracking-tight">Celcius : AI Voice Assistant </h2>
           </motion.div>
           <SignOutButton />
         </div>
