@@ -53,6 +53,7 @@ Swap AI model: If you’d like to experiment with different NLU/NLP backends, th
 Deploy: Use services like Vercel, Netlify or other cloud platforms to go live.
 
 📁 Project Structure
+```
 /
 ├─ app/                # Frontend application (Vite + TS + Tailwind)
 ├─ convex/             # Backend logic and API routes
@@ -61,7 +62,7 @@ Deploy: Use services like Vercel, Netlify or other cloud platforms to go live.
 ├─ package.json
 ├─ tsconfig.json
 └─ …                  # other config files
-
+```
 📌 Why “Celcius”?
 
 The name “Celcius” (a playful take on Celsius) is inspired by the idea of bringing warmth and intelligence into human-machine interaction via voice. The assistant aims to feel natural, responsive and attuned to users’ tone and mood.
